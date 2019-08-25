@@ -1,4 +1,7 @@
-clear
+import os, time
+
+os.system("clear")
+
 ╭━━━━━━━╮
 ┃  ● ══ ┃
 ┃███████┃        ─╤╦︻=(◣_◢)=︻╦╤─
